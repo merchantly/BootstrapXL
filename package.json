@@ -1,0 +1,9 @@
+{
+  "name": "BootstrapXL",
+  "version": "1.0.0",
+  "main": "BootstrapXL.css",
+  "style": "BootstrapXL.css",
+  "repository": "git@github.com:merchantly/BootstrapXL.git",
+  "author": "Alexander Mescheryakov <sibsfinx@ya.ru>",
+  "license": "MIT"
+}
